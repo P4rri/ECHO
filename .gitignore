@@ -1,0 +1,29 @@
+# Fichiers de base de données
+*.db
+*.sqlite3
+
+# Fichiers d'environnement virtuel
+venv/
+env/
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+
+# Fichiers Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Fichiers de configuration
+# NE JAMAIS PARTAGER VOTRE CLÉ API !
+.env
+
+# Fichiers de Streamlit
+.streamlit/
+
+# Fichiers temporaires
+*.tmp
+*.bak
+*.swp
+*~
